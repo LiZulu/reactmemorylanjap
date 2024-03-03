@@ -1,0 +1,11 @@
+@import url('https://font.googleapis/css2?family=Raelway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* base styles */ 
+body {
+  font-family: Raelway, sans-serif;
+  margin: 0;
+  font-size: 1.5rem;
+  text-align: center;
+  background: #b42929;
+  color: #FFF;
+}
