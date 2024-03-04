@@ -16,7 +16,7 @@ export default function CardSingle({card, handleChoice, flipped, disabled})
                 <img className="front" src={card.src} alt="card front" />
                 <img 
                     className="back" 
-                    src="/img/FlagofJapan.png" 
+                    src="./react_memorygame_japlan/img/flagofjapan.png" 
                     onClick={handleClick} 
                     alt="card back"/>
             </div>

@@ -2,15 +2,14 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import CardSingle from './components/CardSingle'
-//import useSound from "use-sound";
 
 const cardJapaneseLanImages = [
-  { "src": "/img/hiragana_romanji/hiraganaromanji_ka.png", matched: false },
-  { "src": "/img/hiragana_romanji/hiraganaromanji_ko.png", matched: false },
-  { "src": "/img/hiragana_romanji/hiraganaromanji_ra.png", matched: false },
-  { "src": "/img/hiragana_romanji/hiraganaromanji_ne.png", matched: false },
-  { "src": "/img/hiragana_romanji/hiraganaromanji_wa.png", matched: false },
-  { "src": "/img/hiragana_romanji/hiraganaromanji_hi.png", matched: false }
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjika.PNG", matched: false },
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjiko.png", matched: false },
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjira.png", matched: false },
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjine.png", matched: false },
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjiwa.png", matched: false },
+  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjihi.png", matched: false }
 ]
 
 const App = () => {
@@ -20,7 +19,6 @@ const App = () => {
   const [ choiceTwo, setChoiceTwo ] = useState(null)
   const [ disabled, setDisabled ] = useState(false)
 
-  //let AudioPlay = new Audio('./assets/audio/FlipCardSOUND.mp3')
 
   //shuffle cards
   const shuffleCards = () =>
