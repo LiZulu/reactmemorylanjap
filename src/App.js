@@ -4,12 +4,12 @@ import './App.css'
 import CardSingle from './components/CardSingle'
 
 const cardJapaneseLanImages = [
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjika.PNG", matched: false },
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjiko.png", matched: false },
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjira.png", matched: false },
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjine.png", matched: false },
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjiwa.png", matched: false },
-  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjihi.png", matched: false }
+  { "src": "./img/hiraganaromanji/hiraganaromanjika.png", matched: false },
+  { "src": "./img/hiraganaromanji/hiraganaromanjiko.png", matched: false },
+  { "src": "./img/hiraganaromanji/hiraganaromanjira.png", matched: false },
+  { "src": "./img/hiraganaromanji/hiraganaromanjine.png", matched: false },
+  { "src": "./img/hiraganaromanji/hiraganaromanjiwa.png", matched: false },
+  { "src": "./img/hiraganaromanji/hiraganaromanjihi.png", matched: false }
 ]
 
 const App = () => {
