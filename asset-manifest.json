@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactmemorylanjap/static/css/main.690f26b2.css",
+    "main.js": "/reactmemorylanjap/static/js/main.95b73e1f.js",
+    "index.html": "/reactmemorylanjap/index.html",
+    "main.690f26b2.css.map": "/reactmemorylanjap/static/css/main.690f26b2.css.map",
+    "main.95b73e1f.js.map": "/reactmemorylanjap/static/js/main.95b73e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690f26b2.css",
+    "static/js/main.95b73e1f.js"
+  ]
+}
