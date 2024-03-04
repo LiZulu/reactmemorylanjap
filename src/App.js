@@ -4,12 +4,12 @@ import './App.css'
 import CardSingle from './components/CardSingle'
 
 const cardJapaneseLanImages = [
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjika.PNG", matched: false },
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjiko.png", matched: false },
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjira.png", matched: false },
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjine.png", matched: false },
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjiwa.png", matched: false },
-  { "src": "./react_memorygame_japlan/img/hiraganaromanji/hiraganaromanjihi.png", matched: false }
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjika.PNG", matched: false },
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjiko.png", matched: false },
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjira.png", matched: false },
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjine.png", matched: false },
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjiwa.png", matched: false },
+  { "src": "./reactmemorylanjapv2/img/hiraganaromanji/hiraganaromanjihi.png", matched: false }
 ]
 
 const App = () => {
